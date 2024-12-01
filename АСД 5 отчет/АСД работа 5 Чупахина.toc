@@ -1,0 +1,15 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Задание 1:}{3}{}%
+\contentsline {subsection}{Абстрактный уровень:}{3}{}%
+\contentsline {subsubsection}{Задание 1.1.1:}{3}{}%
+\contentsline {subsubsection}{Задание 1.1.2:}{3}{}%
+\contentsline {subsection}{Физический уровень:}{4}{}%
+\contentsline {subsubsection}{Задание 1.2.1:}{4}{}%
+\contentsline {subsubsection}{Задание 1.2.2:}{4}{}%
+\contentsline {subsubsection}{Задание 1.2.3:}{4}{}%
+\contentsline {subsubsection}{Задание 1.2.4:}{5}{}%
+\contentsline {subsubsection}{Задание 1.2.5:}{5}{}%
+\contentsline {subsection}{Логический уровень:}{5}{}%
+\contentsline {section}{Задание 2:}{8}{}%
+\contentsline {section}{Задание 3:}{24}{}%
+\contentsline {section}{Вывод:}{26}{}%
