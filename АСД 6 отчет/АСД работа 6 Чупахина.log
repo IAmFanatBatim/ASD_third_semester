@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.12)  1 DEC 2024 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.12)  9 DEC 2024 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -683,26 +683,121 @@ LaTeX Warning: Command \textellipsis invalid in math mode on input line 149.
 
  [2] [3] [4]
 
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 210.
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 213.
 
-[5]
+LaTeX Font Info:    Trying to load font information for T2A+PTMono-TLF on input
+ line 223.
+
+(C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/paratype\t2aptmono-tlf.
+fd
+File: T2APTMono-TLF.fd 2014/02/02 Font definitions for T2A/PTMono-TLF.
+) (../АСД 6 си/stack/example.c [5{C:/Users/sovac/AppData/Local/Programs/Mi
+KTeX/fonts/enc/dvips/paratype/ptmono_t2a.enc}]
+LaTeX Font Info:    Trying to load font information for TS1+PTMono-TLF on input
+ line 6.
+
+(C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/paratype\ts1ptmono-tlf.
+fd
+File: TS1PTMono-TLF.fd 2014/02/02 Font definitions for TS1/PTMono-TLF.
+)) (../АСД 6 си/fifo/example.c [6{C:/Users/sovac/AppData/Local/Programs/Mi
+KTeX/fonts/enc/dvips/paratype/ptmono_ts1.enc}]) [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6]
-[7] [8] (АСД работа 6 Чупахина.aux)
+ [8]
+<images/sheme.png, id=41, 670.505pt x 581.17125pt>
+File: images/sheme.png Graphic file (type png)
+<use images/sheme.png>
+Package pdftex.def Info: images/sheme.png  used on input line 330.
+(pdftex.def)             Requested size: 341.43306pt x 295.94115pt.
+
+(../АСД 6 си/SLList/SLList.h [9 <./images/sheme.png (PNG copy)>]) [10]
+(../АСД 6 си/SLList/SLList.c
+Underfull \vbox (badness 6625) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12])
+(../АСД 6 си/stack/stack.h [13]) (../АСД 6 си/stack/stack.c [14])
+(../АСД 6 си/stack/stack_test.c [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17])
+<images/stack_test.png, id=70, 615.29875pt x 70.2625pt>
+File: images/stack_test.png Graphic file (type png)
+<use images/stack_test.png>
+Package pdftex.def Info: images/stack_test.png  used on input line 359.
+(pdftex.def)             Requested size: 426.79134pt x 48.7374pt.
+
+(../АСД 6 си/fifo/fifo.h [18 <./images/stack_test.png (PNG copy)>])
+(../АСД 6 си/fifo/fifo.c [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20])
+(../АСД 6 си/fifo/fifo_test.c [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23])
+<images/fifo_test.png, id=90, 598.235pt x 75.28125pt>
+File: images/fifo_test.png Graphic file (type png)
+<use images/fifo_test.png>
+Package pdftex.def Info: images/fifo_test.png  used on input line 373.
+(pdftex.def)             Requested size: 426.79134pt x 53.70735pt.
+
+(../АСД 6 си/task/task_updated.c [24 <./images/fifo_test.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29])
+<images/task1.png, id=110, 230.8625pt x 747.79375pt>
+File: images/task1.png Graphic file (type png)
+<use images/task1.png>
+Package pdftex.def Info: images/task1.png  used on input line 386.
+(pdftex.def)             Requested size: 114.19449pt x 369.88582pt.
+<images/task2.png, id=111, 280.04625pt x 760.8425pt>
+File: images/task2.png Graphic file (type png)
+<use images/task2.png>
+Package pdftex.def Info: images/task2.png  used on input line 390.
+(pdftex.def)             Requested size: 136.14702pt x 369.88582pt.
+
+[30 <./images/task1.png (PNG copy)> <./images/task2.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+[33] (АСД работа 6 Чупахина.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9473 strings out of 475247
- 152174 string characters out of 5757791
- 1928785 words of memory out of 5000000
- 30856 multiletter control sequences out of 15000+600000
- 568454 words of font info for 61 fonts, out of 8000000 for 9000
+ 10037 strings out of 475247
+ 162629 string characters out of 5757791
+ 2141785 words of memory out of 5000000
+ 31368 multiletter control sequences out of 15000+600000
+ 569621 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,6n,69p,2713b,353s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,7n,69p,2575b,933s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati12
 00.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 bx1440.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
@@ -710,15 +805,16 @@ bx1440.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 pi600\labx1728.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
 2a/dpi600\labx1200.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
 lh-t2a/dpi600\larm1200.pk><C:/Users/sovac/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmmi12.pfb><C:/Users/sovac/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/sovac/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sovac/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/sovac/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "АСД работа 6 Чупахина.pdf" (8 pages, 222628
- bytes).
+ype1/paratype/ptmono/PTM55F.pfb><C:/Users/sovac/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/sovac/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/sovac/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sovac/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/sovac
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "АСД работа 6 Чупахина.pdf" (33 pages, 39076
+4 bytes).
 PDF statistics:
- 440 PDF objects out of 1000 (max. 8388607)
+ 543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

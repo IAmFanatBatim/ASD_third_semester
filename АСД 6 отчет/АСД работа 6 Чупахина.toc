@@ -6,10 +6,10 @@
 \contentsline {subsection}{Физический уровень:}{4}{}%
 \contentsline {subsubsection}{Задание 1.2.1:}{4}{}%
 \contentsline {subsubsection}{Задание 1.2.2:}{4}{}%
-\contentsline {subsubsection}{Задание 1.2.3:}{4}{}%
+\contentsline {subsubsection}{Задание 1.2.3:}{5}{}%
 \contentsline {subsubsection}{Задание 1.2.4:}{5}{}%
 \contentsline {subsubsection}{Задание 1.2.5:}{5}{}%
 \contentsline {subsection}{Логический уровень:}{5}{}%
-\contentsline {section}{Задание 2:}{7}{}%
-\contentsline {section}{Задание 3:}{8}{}%
-\contentsline {section}{Вывод:}{8}{}%
+\contentsline {section}{Задание 2:}{9}{}%
+\contentsline {section}{Задание 3:}{24}{}%
+\contentsline {section}{Вывод:}{33}{}%

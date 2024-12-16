@@ -1,0 +1,3 @@
+C:/Users/sovac/Desktop/ASD_third_semester/АСД 6 си/SLList/cmake-build-debug/CMakeFiles/SLList.dir
+C:/Users/sovac/Desktop/ASD_third_semester/АСД 6 си/SLList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sovac/Desktop/ASD_third_semester/АСД 6 си/SLList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
