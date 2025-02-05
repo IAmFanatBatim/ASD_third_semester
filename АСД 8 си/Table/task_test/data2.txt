@@ -1,0 +1,5 @@
+BEGIN
+1comp, co2mp, comp3
+z := ( 1comp + co2mp + comp3 ) * 30
+p := 1comp * co2mp * comp3 + 30
+END

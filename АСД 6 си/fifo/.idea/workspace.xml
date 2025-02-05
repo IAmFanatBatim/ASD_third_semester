@@ -10,9 +10,7 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated>
-      <config projectName="fifo" targetName="fifo" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -21,31 +19,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49fbe47d-1206-4470-b024-2753684f3bbe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 отчет/АСД работа 5 Чупахина.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 5 отчет/АСД работа 5 Чупахина.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 отчет/АСД работа 5 Чупахина.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 5 отчет/АСД работа 5 Чупахина.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 отчет/АСД работа 5 Чупахина.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 5 отчет/АСД работа 5 Чупахина.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 си — контрольное задание/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 си — контрольное задание/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 си — контрольное задание/.idea/АСД 5 си.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 си — контрольное задание/List.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 си — контрольное задание/List.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 си — контрольное задание/List_test.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 си — контрольное задание/List_test.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 си — контрольное задание/example.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 5 си — контрольное задание/example.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 6 отчет/images/example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 6 отчет/images/general_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 6 отчет/images/task_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 6 отчет/АСД работа 6 Чупахина.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fifo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fifo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/.cmake/api/v1/reply/cache-v2-99fb8b5af9e6754e6304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d1877bf33c7d94189e3e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-58c856d324cd25f982e1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-19T22-09-33-0811.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/.cmake/api/v1/reply/target-_3_-Debug-1f5e7481785b19254c5a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1a91e91f1c114e4c2010.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../АСД 3 си/sort_algorithms.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../АСД 3 си/sort_algorithms.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fifo.c" beforeDir="false" afterPath="$PROJECT_DIR$/fifo.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fifo.h" beforeDir="false" afterPath="$PROJECT_DIR$/fifo.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,23 +83,27 @@
   }
 }</component>
   <component name="RunManager" selected="C/C++ File.example.c">
-    <configuration name="fifo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="fifo" TARGET_NAME="fifo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="fifo" RUN_TARGET_NAME="fifo">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="fifo" TARGET_NAME="example.c" CONFIG_NAME="example.c">
+    <configuration name="example.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="fifo" TARGET_NAME="example.c" CONFIG_NAME="example.c">
       <option name="sourceFile" value="example.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fifo_test.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="fifo" TARGET_NAME="fifo_test.c" CONFIG_NAME="fifo_test.c">
+    <configuration name="fifo_test.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="fifo" TARGET_NAME="fifo_test.c" CONFIG_NAME="fifo_test.c">
       <option name="sourceFile" value="fifo_test.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="C/C++ File.example.c" />
+      <item itemvalue="C/C++ File.fifo_test.c" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -134,10 +132,17 @@
       <workItem from="1733672423169" duration="836000" />
       <workItem from="1733677285829" duration="593000" />
       <workItem from="1733680505247" duration="219000" />
+      <workItem from="1736105501371" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
   </component>
 </project>

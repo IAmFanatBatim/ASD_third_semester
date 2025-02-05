@@ -1,3 +1,0 @@
-C:/Users/sovac/Desktop/ASD_third_semester/АСД 6 си/fifo/cmake-build-debug/CMakeFiles/fifo.dir
-C:/Users/sovac/Desktop/ASD_third_semester/АСД 6 си/fifo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sovac/Desktop/ASD_third_semester/АСД 6 си/fifo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

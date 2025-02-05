@@ -1,0 +1,8 @@
+BEGIN
+P := 1
+FOR i( <= 5 
+	BEGIN
+        P := P*i
+        i := i+1
+	END
+END

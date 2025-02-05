@@ -1,4 +1,4 @@
-#include <stdio.h>
+запомина#include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
 

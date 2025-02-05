@@ -1,3 +1,0 @@
-C:/Users/sovac/Desktop/АСД/АСД 3 си/cmake-build-debug/CMakeFiles/_3_.dir
-C:/Users/sovac/Desktop/АСД/АСД 3 си/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sovac/Desktop/АСД/АСД 3 си/cmake-build-debug/CMakeFiles/rebuild_cache.dir

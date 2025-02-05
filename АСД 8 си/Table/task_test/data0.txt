@@ -1,0 +1,10 @@
+BEGIN 
+IF var1 > var2 THEN 
+	BEGIN 
+	real_sum := var1+var2
+  	END
+FOR i := 1 TO 10 DO 
+	BEGIN
+	square_sum  += i*i
+  	END
+END

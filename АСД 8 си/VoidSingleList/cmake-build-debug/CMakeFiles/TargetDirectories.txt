@@ -1,0 +1,3 @@
+C:/Users/sofia/Desktop/ASD_third_semester/АСД 8 си/VoidSingleList/cmake-build-debug/CMakeFiles/VoidSingleList.dir
+C:/Users/sofia/Desktop/ASD_third_semester/АСД 8 си/VoidSingleList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofia/Desktop/ASD_third_semester/АСД 8 си/VoidSingleList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
